@@ -26,9 +26,6 @@ This online resume builder assists job searchers in building a professional resu
 <br>
 <hr>
 
-
-<h3><b>WDW Termwork Project</b></h3>
-
 <!-- [Resume Builder](https://https://github.com/Abhinand5118/project/edit/main/README.md) -->
 
 
@@ -40,7 +37,7 @@ This online resume builder assists job searchers in building a professional resu
 
 <br>
 
-![Home](WDW-ResumeBuilder.gif)
+
 
 <br>
 
