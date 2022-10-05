@@ -47,7 +47,7 @@ This online resume builder assists job searchers in building a professional resu
 <!-- ## Contributors -->
 
 
-<a href="https://github.com/R-Ayush777/WDW_Project_CE104_CE108_CE144/graphs/contributors">
+<a 
   <img src="https://contrib.rocks/image?repo=R-Ayush777/WDW_Project_CE104_CE108_CE144" />
 </a>
 
